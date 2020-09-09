@@ -6,6 +6,6 @@ Excel Add-in Bolsa Santiago Services.
        Copiar extension al disco duro. Esta extension al momento es compatible con Excel de 64 bits
 ### 2. Configurar
   1. Copiar BolsaSantiagoXll.cfg en C:/users/user name/
-  2. user_token = un user token valido provisto por STGOX
+  2. Llenar la entreda **user_token** = un user token valido provisto por STGOX
   
 ![](STGOX_SC.PNG)
